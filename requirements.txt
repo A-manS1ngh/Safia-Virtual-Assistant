@@ -1,0 +1,11 @@
+speechrecognition
+pyttsx3
+pyautogui
+screen_brightness_control
+psutil
+beautifulsoup4
+requests
+wikipedia
+wolframalpha
+pyjokes
+pyaudio
